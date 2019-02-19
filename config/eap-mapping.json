@@ -42,7 +42,7 @@
   },
   {
     "name": "begraafplaatsenbeheer",
-    "type": "ap",
+    "type": "all",
     "eap": "OSLO-Openbaar-Domein.eap",
     "diagram": "Begraafplaatsenbeheer",
     "template": "begraafplaatsenbeheer-ap.j2",
