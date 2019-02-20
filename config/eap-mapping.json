@@ -10,7 +10,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/openbaar-domein"
   },
   {
     "name": "openbaar-domein",
@@ -24,7 +24,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/openbaar-domein"
   },
   {
     "name": "objectcatalogus-begraafplaats",
@@ -38,7 +38,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-begraafplaats"
   },
   {
     "name": "begraafplaatsenbeheer",
@@ -52,7 +52,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/begraafplaatsenbeheer"
   },
   {
     "name": "objectcatalogus-gebieden",
@@ -66,7 +66,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-gebieden"
   },
   {
     "name": "objectcatalogus-infrastructuurelementen",
@@ -80,7 +80,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-infrastructuurelementen"
   },
   {
     "name": "objectcatalogus-onbegroeid-voorkomen",
@@ -94,7 +94,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-onbegroeid-voorkomen"
   },
   {
     "name": "objectcatalogus-begroeid-voorkomen",
@@ -108,7 +108,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-begroeid-voorkomen"
   },
   {
     "name": "objectcatalogus-terreindeel",
@@ -122,7 +122,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-terreindeel"
   },
   {
     "name": "objectcatalogus-vegetatie-elementen",
@@ -136,7 +136,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-vegetatie-elementen"
   },
   {
     "name": "objectcatalogus-waterdeel",
@@ -150,7 +150,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-waterdeel"
   },
   {
     "name": "objectcatalogus-watervoorkomen",
@@ -164,7 +164,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/objectcatalogus-watervoorkomen"
   },
   {
     "name": "begraafplaats",
@@ -178,7 +178,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/begraafplaats"
   },
   {
     "name": "onbegroeid-voorkomen",
@@ -192,7 +192,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/onbegroeid-voorkomen"
   },
   {
     "name": "begroeid-voorkomen",
@@ -206,7 +206,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeletoni/begroeid-voorkomen"
   },
   {
     "name": "gebied",
@@ -220,7 +220,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/gebied"
   },
   {
     "name": "infrastructuur",
@@ -234,7 +234,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/infrastructuur"
   },
   {
     "name": "terreindeel",
@@ -248,7 +248,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/terreindeel"
   },
   {
     "name": "vegetatie",
@@ -262,7 +262,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/vegetatie"
   },
   {
     "name": "waterdeel",
@@ -276,7 +276,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/waterdeel"
   },
   {
     "name": "watervoorkomen",
@@ -290,6 +290,6 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OpenbaarDomein",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton/watervoorkomen"
   }
 ]
